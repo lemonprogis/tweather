@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<variables>
+	<consumer_key>your_twitter_consumer_key</consumer_key>
+	<consumer_secret>your_twitter_consumer_secret</consumer_secret>
+	<access_token>your_twitter_access_token</access_token>
+	<access_token_secret>your_twitter_access_token_secret</access_token_secret>
+	<keywords>@brigglere, #tweepy, comma delimited list of keywords</keywords>
+	<host>your_db_host</host>
+	<user>your_db_username</user>
+	<password>your_db_password</password>
+	<database>your_db_name</database>
+</variables>
